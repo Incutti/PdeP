@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "commerce:lib"
+
+    - path: "./test"
+      component: "commerce:test:commerce-test"
